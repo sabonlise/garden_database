@@ -1,1 +1,2 @@
-# garden_database
+# Garden Database project
+Run 'main.py' to start.
